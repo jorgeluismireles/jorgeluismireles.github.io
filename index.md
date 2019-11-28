@@ -18,7 +18,7 @@ a fifth angle **B** and a fifth side **t**. In all these pentagons:
 Both the *regular* pentagon {5} and the *equilateral* pentagram {5/2} 
 belongs to this family.
 
-See [AsAsBsAsAt](AsAsBsAsAt.md).
+See [AsAsBsAsAt](AsAsBsAsAt.html).
 
 #### AsBsCsDsEs pentagons family
 
@@ -29,7 +29,7 @@ positive real numbers **r1** and **r2**.
 The pentagons have the five sides equal **s** but can have the five
 angles **A**, **B**, **C**, **D**, **E** different.
 
-See [AsBsCsDsEs](AsBsCsDsEs.md).
+See [AsBsCsDsEs](AsBsCsDsEs.html).
 
 ### Hexagons
 
@@ -41,15 +41,15 @@ Simple family of heptagons where each member can be described
 with a *single* positive real number **r**.
 The heptagons have six identical angles **A**, six identical sides **s**,
 a seventh angle **B** and a seventh side **t**. In all these heptagons
-```
-r = B / A
-B = 5&pi; + 6A
-t = 2s[cos(2A) + cos(2A - &pi;) + cos(3A - 2&pi;)]
-```
-The **regular** heptagon and the two **equilateral** heptagrams {7/2} and {7/3}
+
+* r = B / A
+* B = 5&pi; + 6A
+* t = 2s(cos(2A) + cos(2A - &pi;) + cos(3A - 2&pi;))
+
+The *regular* heptagon and the two *equilateral* heptagrams {7/2} and {7/3}
 belongs to this family.
 
-See [AsAsAsBsAsAsAt](AsAsAsBsAsAsAt.md).
+See [AsAsAsBsAsAsAt](AsAsAsBsAsAsAt.html).
 
 
 
