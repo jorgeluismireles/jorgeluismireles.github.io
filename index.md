@@ -6,7 +6,7 @@ Mostly elementary geometry.
 
 #### AsAsBsAsAt pentagons family
 
-Simple family of pentagons where each member can be described
+Simple family of pentagons. Each member can be described
 with a *single* positive real number **r**.
 The pentagons have four identical angles **A**, four identical sides **s**,
 a fifth angle **B** and a fifth side **t**. In all these pentagons:
@@ -16,7 +16,7 @@ a fifth angle **B** and a fifth side **t**. In all these pentagons:
 * t = 2s(cos(2A) + cos(2A - &pi;))
 
 Both the *regular* pentagon {5} and the *equilateral* pentagram {5/2} 
-belongs to this family.
+belong to the family.
 
 See [AsAsBsAsAt](AsAsBsAsAt.html).
 
@@ -37,7 +37,7 @@ See [AsBsCsDsEs](AsBsCsDsEs.html).
 
 #### AsAsAsBsAsAsAt heptagons family
 
-Simple family of heptagons where each member can be described
+Simple family of heptagons. Each member can be described
 with a *single* positive real number **r**.
 The heptagons have six identical angles **A**, six identical sides **s**,
 a seventh angle **B** and a seventh side **t**. In all these heptagons
@@ -47,7 +47,7 @@ a seventh angle **B** and a seventh side **t**. In all these heptagons
 * t = 2s(cos(2A) + cos(2A - &pi;) + cos(3A - 2&pi;))
 
 The *regular* heptagon and the two *equilateral* heptagrams {7/2} and {7/3}
-belongs to this family.
+belong to this family.
 
 See [AsAsAsBsAsAsAt](AsAsAsBsAsAsAt.html).
 
