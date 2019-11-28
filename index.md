@@ -10,11 +10,11 @@ Simple family of pentagons where each member can be described
 with a *single* positive real number **r**.
 The pentagons have four identical angles **A**, four identical sides **s**,
 a fifth angle **B** and a fifth side **t**. In all these pentagons:
-```
-r = B / A
-B = 3&pi; + 4A
-t = 2s[cos(2A) + cos(2A - &pi;)]
-```
+
+* r = B / A
+* B = 3&pi; + 4A
+* t = 2s(cos(2A) + cos(2A - &pi;))
+
 Both the *regular* pentagon {5} and the *equilateral* pentagram {5/2} 
 belongs to this family.
 
